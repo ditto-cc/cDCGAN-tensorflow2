@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 gen_img/
+summary/
+.idea/
